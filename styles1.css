@@ -1,0 +1,44 @@
+#title{
+  font-size:20px;
+}
+#img-caption{
+  font-weight:800;
+  margin:auto;
+  text-align:center;
+}
+#tribute-info{
+  background-color:#ffffcc;
+  width:60%;
+  height:70px;
+  margin:auto;
+  font-size:18px;
+  padding-left:2px;
+  padding-top:15px;
+}
+
+#image{
+ width:1000px;
+ height:350px;
+  padding-left:220px;
+}
+.head{
+	margin:auto;
+	background-color:black;
+	color:white;
+	text-align:center;
+	height:50px;
+}
+body{
+	background-color:	#F5F5F5;
+}
+#title{
+	width:90%;
+	background-color: white;
+	padding-left:20px;
+	margin:auto;
+
+}
+
+
+	
+	
